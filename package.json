@@ -22,7 +22,7 @@
     "jest:ci": "jest"
   },
   "dependencies": {
-    "nhsuk-header-search--test": "^1.0.1"
+    "nhsuk-header-search--test": "^1.0.5"
   },
   "devDependencies": {
     "@babel/core": "^7.12.10",

@@ -42,7 +42,7 @@
  * 20. Add nhsuk-spacing(9) to align right and left main nav with header
  */
 
-@import 'autocomplete';
+@import 'node_modules/nhsuk-header-search--test/dist/header-search';
 
 .nhsuk-header {
   @include clearfix();

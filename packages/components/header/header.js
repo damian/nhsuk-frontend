@@ -1,4 +1,4 @@
-import AutoComplete from './headerAutoComplete';
+import AutoComplete from 'nhsuk-header-search--test';
 import MenuToggle from './menuToggle';
 import SearchToggle from './searchToggle';
 

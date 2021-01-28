@@ -22,7 +22,7 @@
     "jest:ci": "jest"
   },
   "dependencies": {
-    "accessible-autocomplete": "^2.0.3"
+    "nhsuk-header-search--test": "^1.0.1"
   },
   "devDependencies": {
     "@babel/core": "^7.12.10",
